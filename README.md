@@ -80,10 +80,11 @@ Get the linux version here - https://github.com/Sid127/Nokia-Debloater/releases
 - [ ] Implement a way to re-install the debloated apps
 - [ ] Add options to debloat google apps
 - [ ] Add options to debloat specific apps
-- [ ] Add options for rebooting to bootloader and recovery mode
+- [x] Add options for rebooting to bootloader and recovery mode on Linux
+- [x] Add options for rebooting to bootloader and recovery mode on Windows
 - [x] Add option to turn off Duraspeed on Mediatek chipset based devices
 - [x] Port script to Linux (thanks to @Sid127)
-- [ ] Combine Linux scripts into one script
+- [x] Combine Linux scripts into one script
 - [ ] Port script to MacOS
 
 ## Screenshots
